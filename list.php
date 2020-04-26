@@ -3,9 +3,9 @@
     <thead>
         <tr>
             <th>Id</th>
-            <th>name</th>
-            <th>email</th>
-            <th>phoneNumber</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
         </tr>
     </thead>
     <tbody>
